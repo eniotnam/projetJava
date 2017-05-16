@@ -1,0 +1,13 @@
+PHASE DE DEBUG
+
+Tu trouvera deux fonctions : restart et restart2 qui te seront utile pour tout relier;
+restart: demande au joueur si il veux rejouer:-oui il renvoie a restart2
+											  -non il coupe le jeu
+
+restart2:demande au joeur si il veux rejouer la partie ou changer de type de jeu:-1 retour au menu
+																				  -2 relance la game
+
+
+j'ai changer les lettre d'aide sont juste les lettres du mots melangé je pense qu'il faut en rajouter 2 ou 3 donc+2 a rajouter la ou tu sais 
+
+faudra faire de la mise en page et  peut etre mettre un recap du nombre de coup
